@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sharmin Sultana</h1>
-<h3 align="center">A passionate Full-stack developer from Bangladesh</h3>
+
+
 <img align="center" alt="Coding" width="1000" src=https://github.com/user-attachments/assets/162e59a3-264e-4985-a84a-30dcd40ce3a0 >
+<h3 align="center">A passionate Full-stack developer from Bangladesh</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharmin097&label=Profile%20views&color=0e75b6&style=flat" alt="sharmin097" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharmin097" alt="sharmin097" /></a> </p>
