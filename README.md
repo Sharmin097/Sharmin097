@@ -6,7 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharmin097" alt="sharmin097" /></a> </p>
 
-- 🔭 I’m currently working on **E-healthCare**
 
 - 🌱 I’m currently learning **React Js, Next js, Three js, node Js**
 
